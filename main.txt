@@ -1,10 +1,15 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature_1commit
 
 =======
 feature1commit
 >>>>>>> feature_1
+=======
+feature2commit
+feature3commit
+>>>>>>> feature_3
 =======
 feature2commit
 feature3commit
