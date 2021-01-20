@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 feature_1commit
 
+=======
+feature1commit
+>>>>>>> feature_1
